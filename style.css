@@ -1,0 +1,10 @@
+:root {
+  --cor-de-fundo: #EBECEE;
+}
+body {
+  background-color: var(--cor-de-fundo);
+}
+h1{
+  color: blueviolet;
+  background-color: rgb(110, 179, 245);
+}
